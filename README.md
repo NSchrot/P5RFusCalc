@@ -1,4 +1,4 @@
-# PFu5ionR (pronuncia-se Pê-Fúzion-Érre)
+# PFu5ionR (pronuncia-se *pê-fúzion-érre*)
 
 ## Uma calculadora de Fusões para o game Persona 5 Royal.
 
